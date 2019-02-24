@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PokeCodeMaster">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PokeCodeMaster/build/PokeCodeMaster.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
